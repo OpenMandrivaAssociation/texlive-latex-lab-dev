@@ -1,6 +1,6 @@
 Name:		texlive-latex-lab-dev
 Version:	64899
-Release:	1
+Release:	2
 Summary:	LaTeX laboratory: Development pre-release
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-lab-dev
