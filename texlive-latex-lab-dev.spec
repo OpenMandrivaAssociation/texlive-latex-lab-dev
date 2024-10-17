@@ -3,7 +3,7 @@ Version:	64899
 Release:	2
 Summary:	LaTeX laboratory: Development pre-release
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-lab-dev
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-lab-dev
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-lab-dev.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-lab-dev.doc.r%{version}.tar.xz
